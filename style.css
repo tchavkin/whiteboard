@@ -6,7 +6,7 @@ body {
     text-align: center;
     padding-top: 10vw; 
 }
-.box2 {
+#box2 {
     position: absolute;
     font-size: 2vw;
     color: brown;
