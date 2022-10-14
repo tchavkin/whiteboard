@@ -2,20 +2,20 @@ body {
     background-color: black;
 }
 
-.box1 {
+#box1 {
     text-align: center;
     padding-top: 10vw; 
 }
+
 #box2 {
     position: absolute;
-    font-size: 2vw;
-    color: brown;
-}
-#button1 {
-    margin: auto;
+    margin-left: 700px;
+    margin-right: 700px;
     background-color: rgb(1, 76, 76);
     border-radius: 1vw;
     border-color: rgb(1, 76, 76);
-    color: rgb(255, 255, 255);
+    color: rgb(1, 76, 76);
     font-size: 4vw;
 }
+
+
