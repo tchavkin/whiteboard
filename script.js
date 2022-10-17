@@ -5,6 +5,7 @@ var horizontal = 0
 
 var vertical = 0
 
+
 document.addEventListener('keydown', (event) => {
     console.log(event.key, horizontal, vertical, d.style.left,);
     if (event.key === 'ArrowUp') {
